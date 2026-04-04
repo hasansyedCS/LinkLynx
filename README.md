@@ -35,10 +35,10 @@ LinkLynx is a production-grade URL shortening service with click analytics. It's
 
 ### Current Status
 
-🚧 **MVP in active development** – Core shortening and redirect working. Click analytics, Redis caching, and AWS deployment in progress.
+**MVP in active development** – Core shortening and redirect working. Click analytics, Redis caching, and AWS deployment in progress.
 
 ## Connect
 
-- Live: [https://hasansyed.dev](https://hasansyed.dev)
+- Portfolio: [https://hasansyed.dev](https://hasansyed.dev)
 - GitHub: [https://github.com/hasansyedCS](https://github.com/hasansyedCS)
 - LinkedIn: [https://linkedin.com/in/hasansyedCS](https://linkedin.com/in/hasansyedCS)
